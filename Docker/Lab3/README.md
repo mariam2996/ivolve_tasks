@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="d09a9b65-f100-4ed5-88c0-a8422e7f3f8e" src="https://github.com/user-attachments/assets/98c8e4e1-17ae-48c9-9d23-d1396c94c88c" />
+<img width="1366" height="768" alt="2281b395-d8aa-4675-8b71-762142bf99ea" src="https://github.com/user-attachments/assets/734bd9e5-efca-4f8b-969a-a4680fc72a0c" />
 # Lab 3 - Creating a Docker Image for a Java Application
 
 ## Objective
