@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="3b657e6d-3913-41dd-9056-8ea99f113b84" src="https://github.com/user-attachments/assets/bfbf6eb3-603b-4383-a720-a7e934dc8364" />
+<img width="1366" height="768" alt="c3a7f158-4ff4-4012-ba17-3d497547c8da" src="https://github.com/user-attachments/assets/3f4f90d5-44f7-469f-befa-15139da73bdf" />
+<img width="1366" height="768" alt="c3a7f158-4ff4-4012-ba17-3d497547c8da" src="https://github.com/user-attachments/assets/99d2aee5-e530-46ef-b218-7c1747395393" />
 # Lab 4 - Docker Image Optimization and Export/Load
 
 ## Objective
