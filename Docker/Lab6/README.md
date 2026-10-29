@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="c4f755e3-b1a9-45b5-b03e-3bc5e81ea5c2" src="https://github.com/user-attachments/assets/6bb73241-c9c9-40b0-8d64-02d2be5da92e" />
+<img width="1366" height="768" alt="82ebb18a-fd54-452f-bd9f-a00eb7e80c84" src="https://github.com/user-attachments/assets/973556a0-7d1c-467e-81d6-0010806f79d0" />
 # Lab 6 - Docker Environment Variables and Resource Management
 
 ## Objective
