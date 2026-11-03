@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="6ebccb74-95a0-4be7-8d1a-1870a7110b2e" src="https://github.com/user-attachments/assets/2907da72-37bf-4933-b4e7-503b244884fd" />
 # Lab 12 - ConfigMap and Secret
 
 ## Objective
