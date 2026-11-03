@@ -1,35 +1,30 @@
-Lab 13 - PersistentVolume and PersistentVolumeClaim
+# Lab 13 - PersistentVolume and PersistentVolumeClaim
 
-Objective
+## Objective
 
 Create persistent storage using a PersistentVolume and PersistentVolumeClaim.
 
-PersistentVolume
+## PersistentVolume
 
 The PersistentVolume was configured with:
 
-Capacity: 1Gi
+- Capacity: `1Gi`
+- Access Mode: `ReadWriteMany`
+- Reclaim Policy: `Retain`
+- Host Path: `/mnt/app-logs`
+- No StorageClass
 
-Access Mode: ReadWriteMany
-
-Reclaim Policy: Retain
-
-Host Path: /mnt/app-logs
-
-No StorageClass
-
-PersistentVolumeClaim
+## PersistentVolumeClaim
 
 The PVC requests:
 
-Capacity: 1Gi
+- Capacity: `1Gi`
+- Access Mode: `ReadWriteMany`
+- No StorageClass
 
-Access Mode: ReadWriteMany
+## pv-pvc.yaml
 
-No StorageClass
-
-pv-pvc.yaml
-
+```yaml
 apiVersion: v1
 kind: PersistentVolume
 metadata:
@@ -56,23 +51,30 @@ spec:
     requests:
       storage: 1Gi
   storageClassName: ""
+```
 
 Apply:
 
+```bash
 kubectl apply -f pv-pvc.yaml
+```
 
-Verification
+## Verification
 
+```bash
 kubectl get pv
 kubectl get pvc -n ivolve
+```
 
-The PV and PVC reached the Bound state.
+The PV and PVC reached the `Bound` state.
 
 Additional verification:
 
+```bash
 kubectl describe pv ivolvepv
 kubectl describe pvc ivolvepvc -n ivolve
+```
 
-Result
+## Result
 
-The PVC was successfully bound to the PersistentVolume.
+The PersistentVolumeClaim was successfully bound to the PersistentVolume.<img width="1366" height="768" alt="2824853b-41d6-4210-b61e-9379284762f3" src="https://github.com/user-attachments/assets/eebe47f9-ba76-4b42-9bc4-2c8b55514414" />
