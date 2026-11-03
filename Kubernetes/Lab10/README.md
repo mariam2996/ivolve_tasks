@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="35dd1fed-69c0-4aed-95e3-c47606ae45f5" src="https://github.com/user-attachments/assets/7fd57eaa-a829-4838-ba3d-588bb932c9cf" />
 # Lab 10 - Node Taints and Labels
 
 ## Objective
