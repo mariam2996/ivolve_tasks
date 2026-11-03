@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="eeaeaf79-f457-4ee8-bc4c-db564208f26a" src="https://github.com/user-attachments/assets/3ae8f22b-aaef-48e4-82d8-059fabf52b1c" />
 # Lab 9 - Kubernetes Cluster using kubeadm
 
 ## Objective
