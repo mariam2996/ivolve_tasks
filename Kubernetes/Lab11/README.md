@@ -1,4 +1,4 @@
-![Uploading 10487ea2-c048-432f-bd18-09ed7bd2f2ef.jpg…]()
+<img width="1366" height="768" alt="10487ea2-c048-432f-bd18-09ed7bd2f2ef" src="https://github.com/user-attachments/assets/f004b473-5b85-474e-8439-1bc8a46247f6" />
 # Lab 11 - Namespace and ResourceQuota
 
 ## Objective
