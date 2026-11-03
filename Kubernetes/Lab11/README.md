@@ -1,3 +1,4 @@
+![Uploading 10487ea2-c048-432f-bd18-09ed7bd2f2ef.jpg…]()
 # Lab 11 - Namespace and ResourceQuota
 
 ## Objective
