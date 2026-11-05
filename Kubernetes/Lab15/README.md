@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="31bf3800-e535-498f-af39-8bab1e81d82a" src="https://github.com/user-attachments/assets/0d15ef22-bcfe-4ca6-832a-79b1572b228b" />
+<img width="1366" height="768" alt="7d619075-2162-419d-bab8-0262d2c37dcc" src="https://github.com/user-attachments/assets/6605d720-83b4-4946-97c5-9b291505b80e" />
 # Lab 15 - Node.js Application Deployment with ClusterIP Service
 
 ## Objective
