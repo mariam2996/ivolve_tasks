@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="1c546a67-4343-49b9-ae7d-3847a9a85c4a" src="https://github.com/user-attachments/assets/07bfab92-f25d-4cd8-b039-1cc6b62efc9f" />
 # Lab 19 - Securing Kubernetes with RBAC and Service Accounts
 
 ## Objective
