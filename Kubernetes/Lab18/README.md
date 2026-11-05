@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="540b9e9b-2069-40c6-b97e-756a6c03178e" src="https://github.com/user-attachments/assets/8fd0d286-3f99-4cd5-b30a-d8d9edc542ac" />
+<img width="1366" height="768" alt="2ace6c34-c608-41c3-9b6c-76133101ab80" src="https://github.com/user-attachments/assets/1ef677f1-32f6-4c2e-8bcb-3272322553a7" />
 # Lab 18 - Node-Wide Pod Management with DaemonSet
 
 ## Objective
